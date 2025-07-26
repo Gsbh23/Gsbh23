@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello World, I'm Gabriel, be very welcome
 
-<!--
-**Gsbh23/Gsbh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Minhas Skills
+
+**Aplicações**
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Pycharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=white)
+
+<br/>
+
+## 🌐 Onde me encontrar
+
+[![Gmail Badge](https://img.shields.io/badge/-gs231102004@gmai.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:gs231102004@gmai.com)
+[![GitHub](https://img.shields.io/github/followers/Gsbh23?label=follow&style=social)](https://github.com/Gsbh23)
